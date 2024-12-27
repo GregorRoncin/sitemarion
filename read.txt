@@ -1,0 +1,8 @@
+idée du site :
+- une catégorie histoire où je mets le docs qu'elle a crée
+- un historique des dates 
+- liens txt avec playlist ? Utiliser API spotify maybe
+- une page d'accueil 
+- un menu déroulant et un header 
+- une page voyage 
+- TODO list 
